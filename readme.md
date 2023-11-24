@@ -1,4 +1,4 @@
-1112# Checkin
+123451112# Checkin
 
 GitHub Actions 实现 [GLaDOS][glados] 自动签到
 
